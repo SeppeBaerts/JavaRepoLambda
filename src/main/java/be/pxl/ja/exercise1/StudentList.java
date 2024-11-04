@@ -13,7 +13,7 @@ public class StudentList {
 		students.add(new Student("Carol", 2018, 67, LocalDate.of(1997, 12,23)));
 		students.add(new Student("David", 2018, 80, LocalDate.of(1997, 3,23)));
 		students.add(new Student("Eric", 2017, 55, LocalDate.of(1998, 4,15)));
-		students.add(new Student("Frank", 2018, 49, LocalDate.of(1996, 10,11)));
+		students.add(new Student("Frank", 2018, 49, LocalDate.of(1996, 11,4)));
 		students.add(new Student("Gary", 2017,88, LocalDate.of(1996, 7,12)));
 		students.add(new Student("Henry", 2017, 98, LocalDate.of(1997, 8,12)));
 		students.add(new Student("Ivan", 2018, 66, LocalDate.of(1999, 3,21)));
